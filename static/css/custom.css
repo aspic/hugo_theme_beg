@@ -1,1 +1,8 @@
 /* Please override here. */
+.panel-default > .panel-heading {
+}
+
+.panel-inverse {
+  background-image: linear-gradient(to bottom,#3c3c3c 0,#222 100%);
+  color: #9d9d9d;
+}
